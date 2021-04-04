@@ -55,7 +55,7 @@ section{
     position: absolute;
     top:0;
     left: 0;
-    width:calc(100% - 500px);
+    /* width:calc(100% - 500px); */
     height: 100%;
     display: flex;
     justify-content: center;
@@ -201,7 +201,7 @@ background: white;
     width: 49%;
     
 }
-.about .content .textBx p{
+.about .content .textBx ul li{
     color: white;
 }
 .about .content .imgBx {
